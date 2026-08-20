@@ -57,7 +57,20 @@ Beschrijf per ontwerp:
   precies één van de vijf dat bewust en beargumenteerd is.
 - Wees eerlijk over de zwakke kant van elk ontwerp. Vijf even sterke ontwerpen
   is geen goed antwoord: dan kan ik niets kiezen.
-- Controleer voordat je antwoordt of elk paar ontwerpen op minstens drie van de
-  vijf assen echt van elkaar verschilt. Lijken er twee te veel op elkaar,
-  vervang er dan één door iets radicalers.
+- **Minstens twee** van de vijf ontwerpen beginnen niet met de conclusie.
+- **Hoogstens twee** van de vijf zijn iets om te lezen. Minstens één is fysiek,
+  en minstens één is interactief.
+- Gebruik **uitsluitend het materiaal dat ik noemde**. Verzin geen bronnen erbij.
+  Kun je een ontwerp niet maken met wat ik heb, zeg dat dan.
 - Schrijf in het Nederlands, zonder marketingjargon.
+
+## TOT SLOT
+
+Sluit af met een tabel waarin je van elk ontwerp de positie op elke as invult,
+zodat ik kan nalezen of ze echt uit elkaar liggen:
+
+| Ontwerp | Dichtheid | Toon | Ordening | Drager | Besliskracht |
+|---|---|---|---|---|---|
+
+Staan er twee rijen die op meer dan twee assen hetzelfde scoren, vervang er dan
+één door iets radicalers voordat je antwoordt.
