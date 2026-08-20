@@ -1,7 +1,10 @@
 # Vormkeuze bij het afstudeereindproduct
 
-Twee producten van HAN Bedrijfskunde over de vorm van het afstudeereindproduct:
-een presentatie voor collega-begeleiders en een werkcollege voor studenten.
+Materiaal van HAN Bedrijfskunde over de vorm van het afstudeereindproduct: een
+presentatie voor collega-begeleiders en drie werkcolleges voor studenten.
+
+**Startpagina voor studenten:** `index.html`, met tegels naar alle drie de
+sessies en het bijbehorende materiaal. Deel die link, niet de losse bestanden.
 
 ## 1. Goed advies moet ook goed landen
 
