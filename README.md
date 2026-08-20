@@ -36,6 +36,32 @@ Negen slides met twee werkvormen, een werkblad en een aftelklok per opdracht.
 | `Werkcollege-voor-wie-maak-jij-dit.pptx` | PowerPoint, inclusief docentnotities met tijdvakken. |
 | `Werkblad-voor-wie-maak-jij-dit.pdf` | A4 om uit te printen. Eén per student. |
 
+## 3. Waar gaat jouw advies heen?
+
+Vervolg op werkcollege 2, opnieuw dertig minuten. Van de directe lezer naar de
+doorgeefketen: met wie deelt je opdrachtgever jouw advies, in welke context, en
+wat geef je hem mee om die anderen te overtuigen.
+
+| Bestand | Waarvoor |
+|---|---|
+| `Werkcollege-2-waar-gaat-jouw-advies-heen.html` | Het werkcollege. Druk op `W` voor de aftelklok. |
+| `Werkcollege-2-waar-gaat-jouw-advies-heen.pdf` | Reservekopie, 8 pagina's op 16:9. |
+| `Werkcollege-2-waar-gaat-jouw-advies-heen.pptx` | PowerPoint met docentnotities. |
+| `Werkblad-2-waar-gaat-jouw-advies-heen.pdf` | A4 om uit te printen. Eén per student. |
+
+### Programma van werkcollege 2
+
+| Tijd | Onderdeel |
+|---|---|
+| 0:00 | Waar gaat jouw advies heen? |
+| 1:30 | Je opdrachtgever is een doorgeefluik |
+| 4:30 | Iedere lezer stelt een andere eerste vraag |
+| 7:30 | **Werkvorm 3**: wie krijgt het daarna? (8 min) |
+| 15:30 | Onderweg raakt er altijd iets kwijt |
+| 18:00 | **Werkvorm 4**: ontwerp het fragment (8 min) |
+| 26:00 | Delen: drie fragmenten |
+| 28:30 | Neem je ketting mee |
+
 ### Programma van het werkcollege
 
 | Tijd | Onderdeel |
