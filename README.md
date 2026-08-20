@@ -49,6 +49,36 @@ wat geef je hem mee om die anderen te overtuigen.
 | `Werkcollege-2-waar-gaat-jouw-advies-heen.pptx` | PowerPoint met docentnotities. |
 | `Werkblad-2-waar-gaat-jouw-advies-heen.pdf` | A4 om uit te printen. Eén per student. |
 
+## 4. Vijf ontwerpen. Eén keuze.
+
+Derde werkcollege, opnieuw dertig minuten. Studenten laten een AI-assistent vijf
+uitingen ontwerpen die op vijf assen maximaal uit elkaar liggen, en kiezen daarna
+zelf onderbouwd. De AI mag geen aanbeveling doen: dat kiezen is het leerdoel.
+
+| Bestand | Waarvoor |
+|---|---|
+| `Werkcollege-3-vijf-ontwerpen.html` | Het werkcollege. Druk op `W` voor de aftelklok. |
+| `Werkcollege-3-vijf-ontwerpen.pdf` | Reservekopie, 8 pagina's op 16:9. |
+| `Werkcollege-3-vijf-ontwerpen.pptx` | PowerPoint met docentnotities. |
+| `Werkblad-3-vijf-ontwerpen.pdf` | A4 dubbelzijdig: context en prompt voorop, beoordelingsraster achterop. |
+| `prompt-vijf-ontwerpen.md` | De volledige prompt om te kopieren en te plakken. |
+
+### Programma van werkcollege 3
+
+| Tijd | Onderdeel |
+|---|---|
+| 0:00 | Vijf ontwerpen. Eén keuze. |
+| 1:30 | AI geeft je geen antwoord, het geeft je startpunten |
+| 4:00 | Vijf assen dwingen ze uit elkaar |
+| 7:00 | **Werkvorm 5**: laat AI vijf ontwerpen maken (9 min) |
+| 16:00 | De AI koos niet, jij wel |
+| 19:00 | **Werkvorm 6**: kies en onderbouw (7,5 min) |
+| 26:30 | Delen: wat heb je laten vallen? |
+| 29:00 | Een ontwerp dat je niet kunt uitleggen, is niet jouw ontwerp |
+
+Studenten hebben voor dit werkcollege een laptop of telefoon met een
+AI-assistent nodig.
+
 ### Programma van werkcollege 2
 
 | Tijd | Onderdeel |
